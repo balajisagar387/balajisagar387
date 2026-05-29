@@ -18,20 +18,6 @@
 
 ---
 
-## 🏅 Certifications
-
-<p align="center">
-
-☁️ AWS – Solutions Architect Associate  
-☁️ GCP – Professional Cloud DevOps Engineer  
-☁️ GCP – Professional Cloud Architect  
-🔐 GCP – Professional Cloud Security Engineer  
-☁️ GCP – Generative AI  
-
-</p>
-
-
----
 
 ## 🧑‍💻 About Me
 
@@ -46,6 +32,20 @@
 
 ---
 
+## 🏅 Certifications
+
+<p align="center">
+
+☁️ AWS – Solutions Architect Associate  
+☁️ GCP – Professional Cloud DevOps Engineer  
+☁️ GCP – Professional Cloud Architect  
+🔐 GCP – Professional Cloud Security Engineer  
+☁️ GCP – Generative AI  
+
+</p>
+
+
+---
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud Platforms
